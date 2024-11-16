@@ -1,0 +1,88 @@
+.navebar{
+background-color: cadetblue;
+
+margin-left: 5px;
+margin-right: 5px;
+color: white;
+height: 60px;
+padding-top: 8px;
+
+}
+
+
+.navebar ul li{
+
+list-style: none;
+display: inline;
+
+font-style: italic;
+font-style: oblique;
+font-size: x-large;
+margin-left: 150px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.image{
+height: 350px ;
+width: 350px;
+background-color: brown;
+
+}
+
+
+
+
+.image img{
+
+width: 100%;
+height: 100%;
+
+border-radius: 25px;
+
+}
+
+.circle{
+
+width: 250px;
+background-color: blue;
+height: 250px;
+border-radius: 50%;
+}
+
+
+.circle img{
+border-radius: 50%;
+width: 100%;
+height: 100%;
+}
+
+.backimg {
+    background-image: url("code.jpg");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.backimg h1{
+
+
+text-align: center;
+color: white ;
+}
+
+
+.backimg ul li{
+
+
+    text-align: center;
+    color: white ;
+    }
+
+
+
+
+
+
+

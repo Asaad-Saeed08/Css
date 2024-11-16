@@ -1,0 +1,44 @@
+.head1{
+
+background-color: black;
+color: white;
+border-radius: 15px ;
+text-align: center;
+box-shadow: 5px 5px 15px red;
+
+}
+.box1{
+width: 300px;
+height: 300px;
+    background-color: blue;
+  color: white;
+    margin-bottom: 20px;
+    border-radius: 15px ;
+   
+    box-shadow: 5px 5px 15px red;
+
+}
+
+.box2{
+  width: 300px;
+  height: 300px;
+      background-color: blue;
+    color: white;
+      margin-bottom: 20px;
+      border-radius: 15px ;
+     
+      box-shadow: 5px 5px 15px red;
+  
+  }
+  .box3{
+    width: 300px;
+    height: 300px;
+        background-color: blue;
+      color: white;
+        margin-bottom: 20px;
+        border-radius: 15px ;
+       
+        box-shadow: 5px 5px 15px red;
+    
+    }
+    
